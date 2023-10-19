@@ -1,7 +1,7 @@
 For the 10 most wanted university on first choice I classed them from left to right like this:
 
 ```
-"demand_score"= 3 x "Choix 1 count" + 2 x "Choix 2" x 1 * "Choix 3"
+"demand_score"= 3 x "Choix 1" + 2 x "Choix 2" + 1 x "Choix 3"
 "difficulty" = "demand_score" / "Quota"
 ```
 
