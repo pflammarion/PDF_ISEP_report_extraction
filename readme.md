@@ -1,5 +1,11 @@
 For the 10 most wanted university on first choice I classed them from left to right like this:
 
+```
+"demand_score"= 3 x "Choix 1 count" + 2 x "Choix 2" x 1 * "Choix 3"
+"difficulty" = "demand_score" / "Quota"
+```
+
+
 # 2019
 ![img.png](plots/Statistiques_2018-2019_1er_tour.png)
 
